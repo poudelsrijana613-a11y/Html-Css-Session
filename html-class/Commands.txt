@@ -1,0 +1,11 @@
+Commands to push project in GitHub
+git init
+git add .
+git remote add origin url_name
+git commit -m "commit message"
+git push origin branch_name
+
+
+for configuring email and username(only once)
+1 git config --global user.email "abc@gmail.com"
+2 git config --global user.name "full namegit "

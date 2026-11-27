@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    border: 2px curve black;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+.circle {
+    background-color: lightcoral;
+    padding:0;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+/* centers the text inside each circle */
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* individual alignment rules */
+
+.start {
+    justify-content: flex-start;
+    
+    
+}
+.end {
+    justify-content: flex-end;
+}
+.center {
+    justify-content: center;
+}
+.space-between {
+    justify-content: space-between;
+}
+.space-around {
+    justify-content: space-around;
+}
+.space-evenly {
+    justify-content: space-evenly;
+}

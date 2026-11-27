@@ -1,0 +1,49 @@
+.head {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sub-head {
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+nav a {
+    text-decoration:none;
+}
+nav a:hover {
+    color:darkgray; 
+}
+
+.me {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 3px 3px;
+}
+
+.skills {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+    background-color: whitesmoke;
+        box-shadow: 2px 2px 3px 3px;
+
+}
+
+.sub-head a {
+    color: white;
+}

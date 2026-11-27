@@ -1,0 +1,23 @@
+.container{
+    background-color:darkslategrey;
+    padding: 20px;
+}
+.item1{
+    background-color:aquamarine;
+    color: black;
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50px;
+}
+.item{
+    background-color:aquamarine;
+    color: black;
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50px;
+    margin-left: 1370px;
+}

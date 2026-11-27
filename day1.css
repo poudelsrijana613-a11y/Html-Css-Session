@@ -1,0 +1,17 @@
+h3{
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
+li{
+    text-transform: uppercase;
+}
+#text{
+    color:blueviolet;
+}
+p{
+    color:cadetblue
+}
+.headings{
+    color:aqua;
+}

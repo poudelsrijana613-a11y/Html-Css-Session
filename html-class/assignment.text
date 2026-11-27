@@ -1,0 +1,12 @@
+Design a form containing the following tags
+1 Full name(textfield)
+2 Password(pass field)
+3 address type
+4 DOB 
+5 Gender
+6 Hobbies:
+7 Message(text area)
+Register button
+
+folder-form design
+form.html

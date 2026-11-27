@@ -1,0 +1,2 @@
+	Random Access Memory
+Main memory: Data and instruction must be loaded into ram for cpu to see it
